@@ -1,0 +1,19 @@
+body{
+  background-image:url("C:/Users/RDboohya/Documents/Python/Web deb course/Flappy_bird/assets/welcome.jfif");
+  background-size: contain;
+}
+
+.header{
+  text-align: center;
+}
+.header-bg{
+  height: 40%;
+  width: 40%;
+  background-color: #FFFFFF;
+  text-align: center;
+  margin:15% auto 15% auto;
+  padding: 5%;
+  border-radius: 25px;
+  box-shadow: 5px 5px 5px 5px #d4d4d4;
+  background-color: yellow;
+}
