@@ -12,6 +12,43 @@
   margin-top: 100px;
 }
 
-.col-lg-2{
-  margin:10px;
+.img_text{
+  font-family: 'Anek Latin', sans-serif;
+}
+
+.about_images{
+  margin: 2px;
+}
+
+#coding{
+  z-index: 0;
+  position: absolute;
+  right:1%;
+}
+
+ #cooking{
+   position: absolute;
+   left: 1%;
+ }
+
+ #gaming{
+   position: absolute;
+   left:20%;
+ }
+
+#sports{
+  position: absolute;
+  right:21%
+}
+
+#title_about{
+  padding-bottom: 20px;
+}
+
+#tennis_img{
+  width: 300px;
+}
+
+#laptop-img{
+  width:290px;
 }

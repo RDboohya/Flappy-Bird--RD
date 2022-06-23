@@ -17,3 +17,14 @@
 canvas{
   padding:0 0 0 0;
 }
+
+.rules{
+  text-align: center;
+  padding-top: 20px;
+  font-family: 'Joan', serif;
+}
+
+ol{
+  text-align: center;
+  list-style-position:inside;
+}
